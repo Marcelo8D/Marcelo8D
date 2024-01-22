@@ -1,0 +1,1 @@
+This is where all the beginner projects that I will be doing will be. Languages like JavaScript, HTML, CSS will be used for a better understanding and to put to practice what I know.
