@@ -1,6 +1,9 @@
 # 🏄‍♂️ Marcelo8D
 
-Im a college student at FIB-UPC, currently at my third year with the vision to better develop my coding knowleadge with some projects. All coding projects are built from the ground up, from planning and designing all the way to solving real life problems with code. All the projects are going to be separated as their corresponding difficulty and language used.
+**`Digital Craftsman`**
+
+Im a college student at FIB-UPC, currently at my third year with the vision to better develop my coding knowleadge with some projects. All coding projects are built from the ground up, from planning and designing all the way to solving real life problems with code. All the projects are going to be separated as their corresponding difficulty and language used. 
+
 ---
 ### 🧰 Languages and Tools
 
