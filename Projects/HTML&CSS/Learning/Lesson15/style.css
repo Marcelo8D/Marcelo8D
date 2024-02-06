@@ -1,0 +1,55 @@
+body {
+    height: 3000px;
+}
+
+.item {
+    position: relative;
+    display: inline-block;
+}
+
+.item-pic {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.sales {
+    position: absolute;
+    top: 8px;
+    right: 0;
+    background-color: black;
+    color: white;
+    font-family: Roboto, Arial;
+    font-size: 15px;
+    padding:  5px 10px;
+}
+
+.Buy {
+    position: absolute;
+    background-color: rgba(192, 192, 192, 0.6);
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: padding 0.2 opacity 0.2;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+.button:active {
+    padding : 5px 11px;
+}
